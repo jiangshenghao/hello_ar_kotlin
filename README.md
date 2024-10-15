@@ -5,9 +5,9 @@ Copyright 2017 Google LLC
 This SDK provides APIs for all of the essential AR features like motion
 tracking, environmental understanding, and light estimation. With these
 capabilities you can build entirely new AR experiences or enhance existing apps
-with AR features.
+with AR features.12121212121
 
-
+1111111111111
 ## Breaking change affecting previously published 32-bit-only apps
 
 _Google Play Services for AR_ (ARCore) has removed support for 32-bit-only
